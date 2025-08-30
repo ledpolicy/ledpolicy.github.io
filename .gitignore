@@ -1,0 +1,29 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+.icons/.DS_Store
+icons/.DS_Store
+
+#github files
+
+# Thumbnail caches
+._*
+
+# Cloud/Drive sync metadata
+*.icloud
+*.synced
+*.tmp
+
+# Editor settings
+*.swp
+*~
+.vscode/
+.idea/
+
+# Node/npm (only if you ever add a build system later)
+node_modules/
+
+# Logs
+*.log
+
